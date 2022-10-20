@@ -1,0 +1,9 @@
+{
+	"type": "module",
+	"dependencies": {
+		"@tensorflow/tfjs-node": "^3.20.0",
+		"canvas": "^2.10.1",
+		"fs": "^0.0.1-security",
+		"node-fetch": "^3.2.10"
+	}
+}
